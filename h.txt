@@ -1,0 +1,2 @@
+Chileno,Bocchi,1234567,Coquimbo,Ovalle,21,175,68,SR388/SR391/X884
+Chileno,Guayo,7654321,La Serena,Com,22,171,70,SR388/SR391/X884/A1689-zD1
