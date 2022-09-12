@@ -62,7 +62,7 @@ public class App
 	}
 	
 	
-	public static int readX(String[] nameSpecies, String[] nameAliens, String[] homePlanet, String[] type, double[] universalIdentify, double[] alienAge, double[] alienHeight, double[] alienWeight, String[] uniqueP) throws FileNotFoundException
+	public static int readX(String[] nameSpecies, String[] nameAliens, String[] homePlanet, String[] type, String[] universalIdentify, double[] alienAge, double[] alienHeight, double[] alienWeight, String[] uniqueP) throws FileNotFoundException
 	{
 		Scanner arch = new Scanner(new File("x.txt"));
 		int count = 0;
@@ -72,7 +72,7 @@ public class App
 			String[] parts = arch.nextLine().split(",");
 			nameSpecies[count] = parts[0];
 			nameAliens[count] = translator(parts[1]);
-			universalIdentify[count] = Double.valueOf(parts[2]);
+			universalIdentify[count] = parts[2];
 			homePlanet[count] = parts[3];
 			alienAge[count] = Double.valueOf(parts[4]);
 			alienHeight[count] = Double.valueOf(parts[5]);
