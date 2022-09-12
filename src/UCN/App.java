@@ -13,7 +13,7 @@ public class App
 		String[] nameAliens = new String[1000];
 		String[] homePlanet = new String[1000];
 		String[] type = new String[1000];
-		double[] universalIdentify = new double[1000];
+		String[] universalIdentify = new String[1000];
 		double[] alienAge = new double[1000];
 		double[] alienHeight = new double[1000];
 		double[] alienWeight = new double[1000];
