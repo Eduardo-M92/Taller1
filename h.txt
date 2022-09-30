@@ -1,2 +1,3 @@
-Chileno,Bocchi,1234567,Coquimbo,Ovalle,21,175,68,SR388/SR391/X884
-Chileno,Guayo,7654321,La Serena,Com,22,171,70,SR388/SR391/X884/A1689-zD1/Urano
+chileno,Bocchi,1234567,Coquimbo,Ovalle,21,175,68,SR388/SR391/X884
+chileno,Guayo,7654321,Coquimbo,Com,22,171,70,SR388/SR391/X884/E1689-zD1/Urano
+peruano,Salmon,2345678,Santiago,SUS,18,174,80,SR388/Urano
